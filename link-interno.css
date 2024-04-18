@@ -12,3 +12,6 @@ body{
   justify-content: center;
 }
 
+.impar, .par{
+  margin-bottom: 20px;
+}
