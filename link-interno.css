@@ -1,1 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  display: flex;
+  align-itens: center;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+}
 
